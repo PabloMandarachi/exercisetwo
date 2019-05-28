@@ -1,0 +1,94 @@
+2019-05-28 10:14:16,444 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 12356 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 10:14:16,448 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 10:14:16,449 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 10:14:23,015 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 7.392 seconds (JVM running for 8.737)
+2019-05-28 10:24:36,850 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 10032 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 10:24:36,855 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 10:24:36,856 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 10:24:42,605 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 6.384 seconds (JVM running for 7.942)
+2019-05-28 10:40:32,705 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 8076 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 10:40:32,746 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 10:40:32,747 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 10:40:44,379 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 12.825 seconds (JVM running for 15.609)
+2019-05-28 10:45:17,160 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 4840 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 10:45:17,169 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 10:45:17,171 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 10:45:25,840 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 9.911 seconds (JVM running for 13.921)
+2019-05-28 10:53:28,418 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 7276 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 10:53:28,428 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 10:53:28,429 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 10:53:36,211 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 8.651 seconds (JVM running for 11.637)
+2019-05-28 11:15:05,494 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 616 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 11:15:05,509 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 11:15:05,510 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 11:15:15,712 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 11.125 seconds (JVM running for 15.443)
+2019-05-28 11:19:16,815 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 2840 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 11:19:16,826 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 11:19:16,828 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 11:19:22,837 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 6.773 seconds (JVM running for 8.112)
+2019-05-28 11:21:10,472 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 2200 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 11:21:10,477 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 11:21:10,479 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 11:21:16,695 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 6.826 seconds (JVM running for 8.398)
+2019-05-28 11:31:39,826 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 8700 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 11:31:39,833 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 11:31:39,835 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 11:31:52,378 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 13.577 seconds (JVM running for 16.78)
+2019-05-28 11:32:13,786 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 8428 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 11:32:13,794 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 11:32:13,796 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 11:32:19,731 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 6.57 seconds (JVM running for 8.636)
+2019-05-28 11:46:08,747 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 14396 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 11:46:08,751 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 11:46:08,752 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 11:46:16,027 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 8.505 seconds (JVM running for 11.677)
+2019-05-28 11:48:32,970 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 7932 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 11:48:32,976 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 11:48:32,977 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 11:48:38,694 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 6.397 seconds (JVM running for 7.747)
+2019-05-28 11:49:48,482 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 7644 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 11:49:48,486 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 11:49:48,487 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 11:49:54,149 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 6.231 seconds (JVM running for 7.746)
+2019-05-28 11:55:51,815 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 10000 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 11:55:51,820 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 11:55:51,822 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 11:55:58,027 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 6.805 seconds (JVM running for 8.3)
+2019-05-28 13:02:24,183 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 8544 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 13:02:24,201 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 13:02:24,201 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 13:06:55,701 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 8604 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 13:06:55,706 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 13:06:55,707 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 13:07:05,658 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 10.53 seconds (JVM running for 11.895)
+2019-05-28 13:59:42,460 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 4688 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 13:59:42,490 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 13:59:42,491 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 13:59:50,857 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 9.433 seconds (JVM running for 12.416)
+2019-05-28 14:27:56,362 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 11504 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 14:27:56,387 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 14:27:56,388 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 14:32:05,535 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 7696 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 14:32:05,539 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 14:32:05,540 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 14:32:13,123 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 8.205 seconds (JVM running for 9.614)
+2019-05-28 14:44:07,317 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 12040 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 14:44:07,322 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 14:44:07,323 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 14:44:13,209 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 6.504 seconds (JVM running for 7.992)
+2019-05-28 15:08:20,778 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 348 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 15:08:20,791 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 15:08:20,792 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 15:08:29,984 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 10.143 seconds (JVM running for 19.251)
+2019-05-28 15:10:11,676 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 5464 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 15:10:11,681 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 15:10:11,682 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 15:12:26,787 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 7588 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 15:12:26,792 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 15:12:26,793 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 15:17:54,917 INFO org.springframework.boot.StartupInfoLogger [main] Starting ExercisetwoApplication on LIM-5CG61169GV with PID 8288 (C:\Users\pmandara\Documents\Proyecto\exercisetwo\target\classes started by pmandara in C:\Users\pmandara\Documents\Proyecto\exercisetwo)
+2019-05-28 15:17:54,925 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 15:17:54,926 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-28 15:18:01,010 INFO org.springframework.boot.StartupInfoLogger [main] Started ExercisetwoApplication in 6.697 seconds (JVM running for 8.116)
+2019-05-28 16:03:46,819 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-28 16:04:35,793 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ExercisetwoApplication in 62.917 seconds (JVM running for 66.854)
